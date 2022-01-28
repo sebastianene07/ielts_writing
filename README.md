@@ -2,8 +2,17 @@
 
 ## Folder structure:
 
-1\
+The solutions to the pdfs are stored in the following folders:  
 
-2\
+pdf_1 - IELTS General Writing.pdf  
+pdf_2 - IELTS GENERAL WRITING TASK 1 P1.pdf  
+pdf_3 - IELTS GENERAL WRITING TASK 1 P2.pdf  
 
-3\
+## Notes
+
+The folder ```pdf_3``` contains more sub-tasks aswell as IELTS guidance for  
+the part_1 writing.
+
+## Contact
+
+Sebastian Ene - <sebastian.ene07@gmail.com>
