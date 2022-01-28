@@ -1,7 +1,7 @@
 You should spend about 20 minutes on this task.
 You are a student at a language school in New Zealand studying Business English. Part of the course is a summer work placement programme. Unfortunately, you have just learnt from the school that this programme has now been cancelled.
 Write a letter to the School Principal. In your letter:
- state your reason for writing
- describe the problem and your concerns
- explain what you would like the Principal to do.
+-state your reason for writing
+-describe the problem and your concerns
+-explain what you would like the Principal to do.
 Write at least 150 words.
